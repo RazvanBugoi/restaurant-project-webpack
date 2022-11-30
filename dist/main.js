@@ -1,1 +1,1 @@
-console.log("test");
+(()=>{"use strict";!function(){const e=document.getElementById("content"),n=document.createElement("div"),t=document.createElement("ul");t.insertAdjacentHTML("beforeend","\n    <li>Homepage</li>\n    <li>Menu</li>\n    <li>About</li>\n  "),n.appendChild(t),e.appendChild(n)}()})();
